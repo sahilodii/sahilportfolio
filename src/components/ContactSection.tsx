@@ -80,13 +80,13 @@ const ContactSection = () => {
             className="space-y-6"
           >
             <a
-              href="mailto:sahilodedara8@gmail.com"
+              href="mailto:odedarasahil8@gmail.com"
               className="flex items-center gap-4 glass-card p-4 hover:glow-border transition-shadow duration-200"
             >
               <Mail size={20} className="text-primary" />
               <div>
                 <p className="text-xs text-muted-foreground">Email</p>
-                <p className="text-sm text-foreground">sahilodedara8@gmail.com</p>
+                <p className="text-sm text-foreground">odedarasahil8@gmail.com</p>
               </div>
             </a>
             <a
