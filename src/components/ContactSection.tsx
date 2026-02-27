@@ -80,23 +80,23 @@ const ContactSection = () => {
             className="space-y-6"
           >
             <a
-              href="mailto:sahil@example.com"
+              href="mailto:sahilodedara8@gmail.com"
               className="flex items-center gap-4 glass-card p-4 hover:glow-border transition-shadow duration-200"
             >
               <Mail size={20} className="text-primary" />
               <div>
                 <p className="text-xs text-muted-foreground">Email</p>
-                <p className="text-sm text-foreground">sahil@example.com</p>
+                <p className="text-sm text-foreground">sahilodedara8@gmail.com</p>
               </div>
             </a>
             <a
-              href="tel:+91XXXXXXXXXX"
+              href="tel:+918866080415"
               className="flex items-center gap-4 glass-card p-4 hover:glow-border transition-shadow duration-200"
             >
               <Phone size={20} className="text-primary" />
               <div>
                 <p className="text-xs text-muted-foreground">Phone</p>
-                <p className="text-sm text-foreground">+91 XXXXXXXXXX</p>
+                <p className="text-sm text-foreground">+91 8866080415</p>
               </div>
             </a>
             <a
